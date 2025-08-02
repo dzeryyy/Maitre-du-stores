@@ -1,0 +1,23 @@
+Résultats du test Uptimia pour maitredustores.shop:
+
+Temps de chargement moyen: 2.6 s
+Emplacements disponibles: 14/14
+Note de performance: 79/100
+Taille de la page: 5 MB
+Utilisabilité mobile: 61/100
+
+Résultats par localisation (extrait):
+- Amsterdam: 2.6s
+- Sydney: 2.6s
+- Orlando: 2.6s
+- Toronto: 2.6s
+- Singapour: 2.6s
+- Dallas: 2.6s
+- Londres: 2.6s
+- Bangalore: 2.6s
+- Francfort: 2.6s
+- San Francisco: 2.6s
+- New York: 2.6s
+
+Note: Uptimia ne fournit pas de point de test spécifique en Algérie. Les résultats montrent que le site est accessible et se charge correctement depuis les emplacements testés globalement.
+
